@@ -19,4 +19,4 @@ async function devAuth(req, res, next) {
   }
 }
 
-module.exports = devAuth;
+module.exports = { devAuth };
